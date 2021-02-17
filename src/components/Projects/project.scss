@@ -1,0 +1,36 @@
+.project-section {
+  min-height: 130vh;
+  overflow: hidden;
+  margin: 10% 0px;
+  padding: 0px 10%;
+  .blob {
+    width: 60%;
+    position: absolute;
+    z-index: -2;
+  }
+  .project-img {
+    margin: 0px auto;
+  }
+  .project-descript {
+    min-width: 100%;
+    .project-descript-item {
+      width: 40%;
+      min-height: 40%;
+      padding: 10px;
+      border-radius: 10px;
+      box-shadow: -1px 3px 13px 0px #7a7a7a;
+      margin: 20px auto;
+      background-color: white;
+    }
+    &::before {
+      content: ' ';
+      position: absolute;
+      top: inherit;
+      left: 50%;
+      transform: translate(-50%, -90%);
+      border-right: 25px solid transparent;
+      border-bottom: 15px solid white;
+      border-left: 25px solid transparent;
+    }
+  }
+}
