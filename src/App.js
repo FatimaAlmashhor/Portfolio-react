@@ -10,7 +10,7 @@ function App() {
     <Router>
       <AnimatePresence>
         <Switch>
-          <Route exact path="/" component={Home} />
+          <Route path="/" component={Home} />
           <Route exact path="/projects-menu" component={ProjectsMenu} />
         </Switch>
       </AnimatePresence>
