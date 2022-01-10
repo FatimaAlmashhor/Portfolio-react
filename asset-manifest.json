@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio-react/static/css/main.4bc69e8d.chunk.css",
+    "main.js": "/Portfolio-react/static/js/main.4d4cc4f5.chunk.js",
+    "main.js.map": "/Portfolio-react/static/js/main.4d4cc4f5.chunk.js.map",
+    "runtime-main.js": "/Portfolio-react/static/js/runtime-main.c002b0fd.js",
+    "runtime-main.js.map": "/Portfolio-react/static/js/runtime-main.c002b0fd.js.map",
+    "static/js/2.927cae39.chunk.js": "/Portfolio-react/static/js/2.927cae39.chunk.js",
+    "static/js/2.927cae39.chunk.js.map": "/Portfolio-react/static/js/2.927cae39.chunk.js.map",
+    "index.html": "/Portfolio-react/index.html",
+    "precache-manifest.e745a3188a399c7d0fb18dc7ab022c5b.js": "/Portfolio-react/precache-manifest.e745a3188a399c7d0fb18dc7ab022c5b.js",
+    "service-worker.js": "/Portfolio-react/service-worker.js",
+    "static/css/main.4bc69e8d.chunk.css.map": "/Portfolio-react/static/css/main.4bc69e8d.chunk.css.map",
+    "static/js/2.927cae39.chunk.js.LICENSE.txt": "/Portfolio-react/static/js/2.927cae39.chunk.js.LICENSE.txt",
+    "static/media/covid.png": "/Portfolio-react/static/media/covid.f8f7dd2a.png",
+    "static/media/ecommerce-fram.png": "/Portfolio-react/static/media/ecommerce-fram.97729988.png",
+    "static/media/exhale.png": "/Portfolio-react/static/media/exhale.64193052.png",
+    "static/media/hange-man.png": "/Portfolio-react/static/media/hange-man.ff568f42.png",
+    "static/media/hello.svg": "/Portfolio-react/static/media/hello.bf976b02.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c002b0fd.js",
+    "static/js/2.927cae39.chunk.js",
+    "static/css/main.4bc69e8d.chunk.css",
+    "static/js/main.4d4cc4f5.chunk.js"
+  ]
+}
